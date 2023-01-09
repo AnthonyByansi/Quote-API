@@ -1,0 +1,23 @@
+{
+  "name": "quote-api",
+  "version": "1.0.0",
+  "description": "This is a simple API for retrieving quotes. It includes two routes:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyByansi/Quote-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyByansi/Quote-API/issues"
+  },
+  "homepage": "https://github.com/AnthonyByansi/Quote-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
